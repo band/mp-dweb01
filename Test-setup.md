@@ -52,4 +52,32 @@ TODO: separate this into two documents
 - one for pre-MarkPub install and init  
 - one to test the MarkPub install and use instructions  
 
+-----
+2025-02-04: testing a simple GitHub pages deployment:  
+ (1): directory previously set up as a GitHub repository  
+ (2): `markpub init directory-name`  
+```shell
+cd directory-name
+git add .
+git commit -m "MarkPub initialization"
+git push
+```  
+ (3): copied `.github/` directory from an existing document-collection
+ repository  
+   - edited the `.github/workflows/gh-pages.yml` file and inserted
+     this repository's name into the `markpub build ...` command  
+```shell
+git add .github/
+git commit -m "GitHub pages config files"
+git push
+```  
+ (4) logged into GitHub, and for this repository's "Pages" settings,
+ set "Build and deployment" "Branch" to "gh-pages" in the drop-down
+ menu, and "Save" that setting  
+  - Saving that setting triggers and "pages build and deployment"
+    workflow under the "Actions" tab  
+  - when completed the website is available at:  
+  <https://githubaccountname.github.io/repositoryname>  
+  (in this example this is https://band.github.io/mptestcollection)  
+
 
