@@ -1,6 +1,8 @@
-# MarkPub Test Collection
+# Markpub sample collection
 
-A collection of Markdown files and some wiki-links amongst
-them. Primary purpose is to serve as a test collection for the PyPI
-package MarkPub (cf. https://markpub.org)  
+Markdown documents and a few wiki-links amongst them.
+
+
+![[paPelicans-201606.jpg]]
+Pelicans, Port Aransas, Texas, 2012  
 
