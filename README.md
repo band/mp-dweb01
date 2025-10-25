@@ -1,4 +1,4 @@
-# Markpub sample collection
+## Markpub sample collection
 
 Markdown documents and a few wiki-links amongst them.
 
