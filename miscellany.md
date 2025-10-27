@@ -1,7 +1,7 @@
 # miscellany
  - by which is meant, links to other notable notes, and, perhaps, some commentary on what is notable about the link.
 
-- a comment(ary) on psychoanalysis  
+- an observation about psychoanalysis  
 	[[Peter Cornell - The Ways of Paradise]]  
 
 - some comments on multi-solving  
@@ -17,5 +17,5 @@
 cf. [[Italo Calvino - notes on Six Memos]]  
 
 ## 2024-10-10  
-- new words needed to avoid conflating human thinking with AI and LLM implementations and actions, a.k.a. data processing.
+- new words are needed to avoid conflating human thinking with AI and LLM implementations and actions, a.k.a. data processing.
 
